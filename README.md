@@ -17,7 +17,7 @@ To ensure the security and integrity of the installation, strictly use the offic
 
 | File | Algorithm | Hash |
 | :--- | :--- | :--- |
-| `FileConverterPro_Setup.exe` | SHA256 | `B4016E85F27ECDD179F98B5FB5235A34879E5FF216047BBE9478902486F9F177` |
+| `FileConverterPro_Setup.exe` | SHA256 | `FF2407BFBDE841A5F7EEC0EC8E7D85009728AA5C86D141E22F2A2F53B9727B33` |
 
 ### Release & Source Policy
 
